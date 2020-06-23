@@ -22,6 +22,23 @@ img {
   display: block;
 }
 
+/*header*/
+
+.header {
+  
+  background-color: rgba(50, 70, 182, 0.938);
+  height: 300px;
+  margin-bottom: 50px;
+  
+}
+
+.header h1 {
+  font-size: 60px;
+  color: white;
+  text-align: center;
+  padding-top: 60px;
+}
+
 h1 {
   font-weight: normal;
   margin-bottom: .5em;
@@ -44,4 +61,16 @@ h1 {
   border-bottom: 8px solid #4a4a4a;
   max-width: 800px;
   margin: 0 auto 28px auto;
+}
+
+.footer {
+  background-color: #FF7C93;
+  height: 300px;
+}
+
+.footer h1 {
+  font-size: 60px;
+  color: white;
+  text-align: center;
+  padding-top: 60px;
 }
